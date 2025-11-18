@@ -1,0 +1,5 @@
+{
+  "name": "Property Asset Analyzer",
+  "description": "An application for property management officers to upload PDF documents, extract asset information using AI, and visualize the data in tables and charts.",
+  "requestFramePermissions": []
+}
